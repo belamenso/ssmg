@@ -13,7 +13,9 @@ Inspired by
 ![](/Examples/Yellow%20Submarine%20-%20The%20Beatles.png)
 ### Don't Stop Me Now - Queen
 ![](/Examples/Don't%20Stop%20Me%20Now.png)
-### Na Na Na Na - My Chamical Romance
-![](/Examples/Na%20Na%20Na%20Na%20-%20My%20Chamical%20Romance.png)
 ### Scatman
 ![](/Examples/Scatman.png)
+### Bad Romance - Lady Gaga
+![](/Examples/Bad%20Romance%20-%20Lady%20Gaga.png)
+### Na Na Na Na - My Chamical Romance
+![](/Examples/Na%20Na%20Na%20Na%20-%20My%20Chamical%20Romance.png)
