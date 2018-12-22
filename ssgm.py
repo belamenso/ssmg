@@ -4,7 +4,7 @@
 #### PARSING
 #######################
 
-ALLOWED='abcdefghijklmnopqrstuvwxyz0123456789-'
+ALLOWED='abcdefghijklmnopqrstuvwxyz0123456789\''
 
 def clean_lyrics(dirty_lyrics):
     lyrics = dirty_lyrics.lower()
@@ -80,6 +80,7 @@ root.update()
 root.minsize(500, 250)
 
 text = Text(root)
+text.focus()
 text.grid(row=0, column=0, sticky=(N, E, S, W))
 
 btn_frame = ttk.Frame(root, padding=10)
@@ -105,4 +106,3 @@ root.columnconfigure(0, weight=1)
 root.columnconfigure(1, weight=0)
 
 root.mainloop()
-
