@@ -1,6 +1,6 @@
 # Self-Similarity Matrix Generator
 
-Simle script in Python+Tkinter generating self-similarity matrices for song lyrics.
+Simple script in Python+Tkinter generating self-similarity matrices for song lyrics.
 
 Inspired by
 * [Pop music stuck on repeat](https://www.youtube.com/watch?v=_tjFwcmHy5M)
